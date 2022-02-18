@@ -1,0 +1,26 @@
+header{
+    position: fixed;
+    background-color: var(--main-color);
+    margin: 4px;
+    border-radius: 50%;
+    right: 0;
+}
+
+.button-navbar{
+    position: relative;
+    right: 0;
+    display: flex;
+    margin: 4px;
+    background: none;
+    border: none;
+    font-size: 3rem;
+    color: white;
+}
+
+nav{
+    display: flex;
+    width: 0;
+    height: 0;
+    white-space: nowrap;
+    overflow: hidden;
+}
