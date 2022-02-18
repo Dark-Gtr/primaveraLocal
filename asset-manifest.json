@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/primaveraLocal/static/css/main.f378321b.css",
+    "main.js": "/primaveraLocal/static/js/main.7be9e341.js",
+    "static/js/787.c836262d.chunk.js": "/primaveraLocal/static/js/787.c836262d.chunk.js",
+    "index.html": "/primaveraLocal/index.html",
+    "main.f378321b.css.map": "/primaveraLocal/static/css/main.f378321b.css.map",
+    "main.7be9e341.js.map": "/primaveraLocal/static/js/main.7be9e341.js.map",
+    "787.c836262d.chunk.js.map": "/primaveraLocal/static/js/787.c836262d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f378321b.css",
+    "static/js/main.7be9e341.js"
+  ]
+}
